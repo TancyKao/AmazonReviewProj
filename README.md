@@ -6,13 +6,3 @@ Goal
 The goal of this project is to mine 9,000,000 book reviews from Amazon.com to understand the features of reviews for helpfulness and develop preliminary classification models to predict helpfulness of a review foods
 Data source
 http://jmcauley.ucsd.edu/data/amazon/
-Data information
-"reviewerID": "A2SUAM1J3GNN3B"
-"asin": "0000013714"
-"reviewerName": "J. McDonald"
-"helpful": [2, 3]
-"reviewText": "Great purchase though!",
-"overall": 5.0,
-"summary": "Heavenly Highway Hymns",
-"unixReviewTime": 1252800000,
-"reviewTime": "09 13, 2009"
