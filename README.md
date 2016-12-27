@@ -1,8 +1,7 @@
 ## How helpful is my review? Predicting review usefulness using machine learning
 ## Problem
-It has been showed that over last past 10 years, global retail e-commerce has been explosive growth. Without experience of product commonalities, customers will heavily rely on other reviewers for the decision making for the online shopping. However, with amount of information from reviewers, it is important for a website to identify the useful, valid, and reliable reviews to save help customers. Useful reviews also can in turn to help business to improve their products and understand customers' need.
+Over the past 10 years, global retail e-commerce has been experiencing an explosive growth. In the world of online market place where touching, smelling or otherwise experiencing products is not feasible, customers heavily rely on other reviewers to make up their minds for a buying decision. However, provided the large volume of reviews, it is important for a website to identify useful, relevant and reliable reviews to help customers save time and make a better choice. Also, useful reviews can help business to increase sales, and improve the product by understanding customers' needs and pain-points.
 ## Goal
-The goal of this project is to mine 9,000,000 book reviews from Amazon.com to understand the features of reviews for helpfulness and develop preliminary classification models to predict helpfulness of a review foods
-
+The goal of this project is to mine nine million book reviews from Amazon.com to understand what makes a review helpful to the customer. To this end, a number of models are recruited to test their predictive powers for helpfullness classification of features using the bag of words approach to constructing model features. While our model is built to work with any kind of product, the review dataset provided by Amazon only includes book reviews.
 ## Data source
 http://jmcauley.ucsd.edu/data/amazon/
